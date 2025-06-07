@@ -1,3 +1,4 @@
+"""Example analysis script used in the interactive lab."""
 # Simple data analysis without external dependencies
 
 DATA = {
@@ -16,4 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
