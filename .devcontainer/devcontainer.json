@@ -1,0 +1,6 @@
+{
+  "name": "Pandas Demo",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install pandas==2.3.0",
+  "forwardPorts": []
+}
