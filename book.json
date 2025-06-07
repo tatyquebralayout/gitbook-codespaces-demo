@@ -1,0 +1,7 @@
+{
+  "title": "GitBook Codespaces Demo",
+  "description": "An example GitBook using GitHub Codespaces.",
+  "structure": {
+    "summary": "SUMMARY.md"
+  }
+}
